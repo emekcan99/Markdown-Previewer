@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+    color: #000013;
+    font-size: 40px;
+}
+.help{
+    font-size: 50px;
+    border-style: solid;
+    margin: 0;
+    float: right;
+    margin-right: 50px ;
+}
+.help:hover{
+    border-color: gray;
+    background-color: #3b4689;
+}
+.help:active{
+    background-color: #162348;
+}
